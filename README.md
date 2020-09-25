@@ -1,2 +1,1 @@
-# Data cleaning Projects
-Data cleaning exercises implemented in Python 
+Data cleaning projects implemented in Python 
